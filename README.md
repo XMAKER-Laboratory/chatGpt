@@ -1,6 +1,6 @@
 # ChatGPT-Vercel
 
-预览: [https://vercel-chatgpt-github.vercel.app](https://vercel-chatgpt-github.vercel.app)
+预览: [https://go-chat-sbr3-git-main-xmaker.vercel.app](https://go-chat-sbr3-git-main-xmaker.vercel.app)
 
 chatGpt体验账号带KEY购买（可改密）：[点击购买](https://dwz.cn/RxMxlcaq)
 
