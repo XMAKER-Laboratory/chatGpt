@@ -31,7 +31,7 @@ html {
 main {
   max-width: 72ch;
   margin: 0 auto;
-  padding: 8em 2em;
+  padding: 2em 2em 10em;
 }
 
 @media (max-width: 768px) {
